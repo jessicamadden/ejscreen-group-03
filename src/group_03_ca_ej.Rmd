@@ -24,4 +24,4 @@ ggplot(data = ces, aes(x = white_percent, y = ces_3_0_score)) +
   scale_fill_gradient(low = "navy", high = "orange") +
   theme_minimal()
 ```
-
+Generally, as the percent of the population that is white increases, the CES 3.0 score decreases in a direct linear manner.
